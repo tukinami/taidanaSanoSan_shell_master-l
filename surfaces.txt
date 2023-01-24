@@ -1,0 +1,392 @@
+charset,UTF-8
+
+//satolist.palette.offset,30,30
+//satolist.palette.expand,0.5
+
+descript
+{
+version,1
+}
+
+
+// ===================================================================
+// sakura
+// ===================================================================
+// 素
+surface0
+{
+element0,base,surface0000.png,0,0
+
+animation0.interval,rarely
+animation0.pattern0,overlay,99,80,0,0
+animation0.pattern1,overlay,97,80,0,0
+animation0.pattern2,overlay,98,80,0,0
+animation0.pattern3,overlay,99,80,0,0
+animation0.pattern4,overlay,-1,80,0,0
+
+animation1.interval,talk,2
+animation1.pattern0,overlay,92,80,0,0
+animation1.pattern1,overlay,93,160,0,0
+}
+
+// 照れ
+surface1
+{
+element0,base,surface0001.png,0,0
+
+animation0.interval,rarely
+animation0.pattern0,overlay,96,80,0,0
+animation0.pattern1,overlay,97,80,0,0
+animation0.pattern2,overlay,95,80,0,0
+animation0.pattern3,overlay,96,80,0,0
+animation0.pattern4,overlay,-1,80,0,0
+}
+
+// 驚き
+surface2
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-fullopen.png,0,0
+element2,overlay,eyeblow-normal.png,0,0
+element3,overlay,mouth-fullopen.png,0,0
+
+animation0.interval,rarely
+animation0.pattern0,overlay,94,90,0,0
+animation0.pattern1,overlay,97,80,0,0
+animation0.pattern2,overlay,99,80,0,0
+animation0.pattern3,overlay,94,80,0,0
+animation0.pattern4,overlay,-1,80,0,0
+}
+
+// 不安
+surface3
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-lookaway-normal.png,0,0
+element2,overlay,eyeblow-sad.png,0,0
+element3,overlay,mouth-normal.png,0,0
+
+animation0.interval,rarely
+animation0.pattern0,overlay,96,80,0,0
+animation0.pattern1,overlay,97,80,0,0
+animation0.pattern2,overlay,95,80,0,0
+animation0.pattern3,overlay,96,80,0,0
+animation0.pattern4,overlay,-1,80,0,0
+}
+
+// 落ち込み
+surface4
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-close.png,0,0
+element2,overlay,eyeblow-sad.png,0,0
+element3,overlay,mouth-halfopen.png,0,0
+}
+
+// 微笑み
+surface5
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-normal.png,0,0
+element2,overlay,eyeblow-funny.png,0,0
+element3,overlay,mouth-smile.png,0,0
+
+animation0.interval,rarely
+animation0.pattern0,overlay,99,80,0,0
+animation0.pattern1,overlay,97,80,0,0
+animation0.pattern2,overlay,98,80,0,0
+animation0.pattern3,overlay,99,80,0,0
+animation0.pattern4,overlay,-1,80,0,0
+}
+
+// 目閉じ
+surface6
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-close.png,0,0
+element2,overlay,eyeblow-normal.png,0,0
+element3,overlay,mouth-normal.png,0,0
+}
+
+// 怒り
+surface7
+{
+element0,base,surface0007.png,0,0
+
+animation0.interval,rarely
+animation0.pattern0,overlay,99,80,0,0
+animation0.pattern1,overlay,97,80,0,0
+animation0.pattern2,overlay,98,80,0,0
+animation0.pattern3,overlay,99,80,0,0
+animation0.pattern4,overlay,-1,80,0,0
+}
+
+// 冷笑
+surface8
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-lookaway-normal.png,0,0
+element2,overlay,eyeblow-sad.png,0,0
+element3,overlay,mouth-smile.png,0,0
+
+animation0.interval,rarely
+animation0.pattern0,overlay,96,80,0,0
+animation0.pattern1,overlay,97,80,0,0
+animation0.pattern2,overlay,95,80,0,0
+animation0.pattern3,overlay,96,80,0,0
+animation0.pattern4,overlay,-1,80,0,0
+}
+
+// 照れ怒り
+surface9
+{
+element0,base,surface0007.png,0,0
+element1,overlay,eye-fullopen.png,0,0
+element2,overlay,eyeblow-angry.png,0,0
+element3,overlay,mouth-fullopen.png,0,0
+element4,overlay,shy.png,0,0
+
+animation0.interval,rarely
+animation0.pattern0,overlay,94,90,0,0
+animation0.pattern1,overlay,97,80,0,0
+animation0.pattern2,overlay,99,80,0,0
+animation0.pattern3,overlay,94,80,0,0
+animation0.pattern4,overlay,-1,80,0,0
+}
+
+// ===================================================================
+// kero
+// ===================================================================
+// 素
+surface10
+{
+element0,base,surface0010.png,0,0
+
+animation0.interval,rarely
+animation0.pattern0,overlay,199,80,0,0
+animation0.pattern1,overlay,197,80,0,0
+animation0.pattern2,overlay,198,80,0,0
+animation0.pattern3,overlay,199,80,0,0
+animation0.pattern4,overlay,-1,80,0,0
+}
+
+// 刮目
+surface11
+{
+element0,base,surface0010.png,0,0
+element1,overlay,p1-eye-fullopen.png,0,0
+}
+
+// 目閉じ
+surface16
+{
+element0,base,surface0010.png,0,0
+element1,overlay,p1-eye-close.png,0,0
+}
+// 10-19 kero側 19 kero歌
+
+// ===================================================================
+// sakura
+// ===================================================================
+// 20 立て看板
+
+// 歌
+surface25
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-close.png,0,0
+element2,overlay,eyeblow-normal.png,0,0
+element3,overlay,mouth-halfopen.png,0,0
+}
+
+// ===================================================================
+// sakura 特殊
+// ===================================================================
+// あくび
+surface30
+{
+element0,base,surface0030.png,0,0
+}
+
+// 眠気
+surface31
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-half.png,0,0
+element2,overlay,eyeblow-normal.png,0,0
+element3,overlay,mouth-halfopen.png,0,0
+
+animation0.interval,rarely
+animation0.pattern0,overlay,98,80,0,0
+animation0.pattern1,overlay,97,80,0,0
+animation0.pattern3,overlay,98,80,0,0
+animation0.pattern4,overlay,-1,80,0,0
+}
+
+// 困り顔
+surface34
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-smile.png,0,0
+element2,overlay,eyeblow-sad.png,0,0
+element3,overlay,mouth-normal.png,0,0
+}
+
+// 満面の笑み
+surface35
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-smile.png,0,0
+element2,overlay,eyeblow-funny.png,0,0
+element3,overlay,mouth-smile.png,0,0
+}
+
+// 照れ笑い
+surface36
+{
+element0,base,surface0000.png,0,0
+element1,overlay,eye-smile.png,0,0
+element2,overlay,eyeblow-sad.png,0,0
+element3,overlay,mouth-smile.png,0,0
+element4,overlay,shy.png,0,0
+}
+
+// ===================================================================
+// sakura 当たり判定
+// ===================================================================
+// Head
+surface.append0-9,20-40
+{
+collision0,151,33,323,129,Head
+}
+
+// normal pose
+surface.append0-9,20-40,!1,!7,!9,!30
+{
+collision1,169,268,312,360,Chest
+collision2,275,512,361,622,Hand
+}
+
+// shy pose
+surface.append1
+{
+collision1,161,309,254,369,Chest
+collision2,198,239,275,302,Hand
+}
+
+// angly pose
+surface.append7,9
+{
+collision1,169,268,312,360,Chest
+collision2,32,261,96,331,Hand
+collision3,323,332,406,421,Hand
+}
+
+// sleepy pose
+surface.append30
+{
+collision1,158,290,222,364,Chest
+collision2,184,209,270,284,Hand
+}
+
+// ===================================================================
+// kero 当たり判定
+// ===================================================================
+surface.append10-19
+{
+collision0,254,55,371,114,Head
+collision1,253,167,346,254,Chest
+collision2,268,349,340,391,Hand
+collision3,103,38,199,207,Tail
+collision4,7,113,103,224,Tail
+collision5,143,305,170,340,TailRoot
+}
+
+// ===================================================================
+// sakura parts
+// ===================================================================
+// 口
+// -------------------------------------------------------------------
+// 大口
+surface91
+{
+element0,base,mouth-fullopen.png,0,0
+}
+
+// 半開き
+surface92
+{
+element0,base,mouth-halfopen.png,0,0
+}
+
+// 通常
+surface93
+{
+element0,base,mouth-normal.png,0,0
+}
+
+// 目
+// -------------------------------------------------------------------
+// 驚き
+surface94
+{
+element0,base,eye-fullopen.png,0,0
+}
+
+// 余所見半開き
+surface95
+{
+element0,base,eye-lookaway-half.png,0,0
+}
+
+// 余所見開き
+surface96
+{
+element0,base,eye-lookaway-normal.png,0,0
+}
+
+// 通常閉じ
+surface97
+{
+element0,base,eye-close.png,0,0
+}
+
+// 通常半開き
+surface98
+{
+element0,base,eye-half.png,0,0
+}
+
+// 通常開き
+surface99
+{
+element0,base,eye-normal.png,0,0
+}
+
+// ===================================================================
+// kero parts
+// ===================================================================
+// 目
+// -------------------------------------------------------------------
+// 刮目
+surface196
+{
+element0,base,p1-eye-fullopen.png,0,0
+}
+// 閉じ
+surface197
+{
+element0,base,p1-eye-close.png,0,0
+}
+
+// 通常半目
+surface198
+{
+element0,base,p1-eye-half.png,0,0
+}
+
+// 通常
+surface199
+{
+element0,base,p1-eye-normal.png,0,0
+}

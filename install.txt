@@ -1,0 +1,7 @@
+charset,UTF-8
+name,master-l
+type,shell
+
+directory,master-l
+accept,佐野伊織
+

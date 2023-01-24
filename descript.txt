@@ -1,0 +1,34 @@
+charset,UTF-8
+name,master-l
+id,master-l
+type,shell
+craftman,tukinami seika
+craftmanw,月波 清火
+craftmanurl,https://github.com/tukinami/taidanaSanoSan_shell_master-l
+homeurl,https://raw.githubusercontent.com/tukinami/taidanaSanoSan_shell_master-l/main/
+
+seriko.use_self_alpha,1
+
+menu.background.bitmap.filename,background.png
+menu.foreground.bitmap.filename,foreground.png
+menu.sidebar.bitmap.filename,sidebar.png
+
+menu.background.alignment,lefttop
+menu.foreground.alignment,lefttop
+menu.sidebar.alignment,top
+
+menu.background.font.color.r,48
+menu.background.font.color.g,56
+menu.background.font.color.b,54
+
+menu.foreground.font.color.r,254
+menu.foreground.font.color.g,254
+menu.foreground.font.color.b,254
+
+menu.separator.color.r,64
+menu.separator.color.g,89
+menu.separator.color.b,128
+
+menu.disable.font.color.r,125
+menu.disable.font.color.g,125
+menu.disable.font.color.b,125
