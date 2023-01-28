@@ -294,12 +294,14 @@ collision2,184,209,270,284,Hand
 // ===================================================================
 surface.append10-19
 {
-collision0,254,55,371,114,Head
-collision1,253,167,346,254,Chest
-collision2,268,349,340,391,Hand
-collision3,103,38,199,207,Tail
-collision4,7,113,103,224,Tail
-collision5,143,305,170,340,TailRoot
+collision0,259,50,376,109,Head
+collision1,277,145,376,168,Chin
+collision2,317,171,356,206,Stone
+collision3,260,213,354,259,Chest
+collision4,273,349,345,391,Hand
+collision5,108,33,204,202,Tail
+collision6,12,108,108,219,Tail
+collision7,148,300,175,335,TailRoot
 }
 
 // ===================================================================
