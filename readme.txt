@@ -19,12 +19,13 @@ https://github.com/tukinami/taidanaSanoSan_shell_master-l
 
 連絡先
 ------------------------------------------------------------
-Peing質問箱(https://peing.net/ja/tukinami_seika)
+Wavebox(https://wavebox.me/wave/ersk1ec23kr3hrqr/)
 
 バグ報告・感想・要望等、お気軽にどうぞ。
 
 
 更新履歴
 ------------------------------------------------------------
+2025-08-15: readme.txt更新。連絡先を変更。
 2023-02-09: 本公開。当たり判定をmasterと合わせました。
 2023-01-25: 仮公開。
