@@ -22,7 +22,7 @@ file,p1-eye-close.png35a11648dbe84e1ceaf59229ff684e7asize=4950date=2012-12-21
 file,p1-eye-fullopen.png117170451716d2ba263f040894cce97dsize=6069date=2012-12-21T00:00:00
 file,p1-eye-half.png204d4ec554600123d3ee2ff524976c59size=5868date=2012-12-21T00:00:00
 file,p1-eye-normal.pngca574e777a372cad6e0bef01352059c0size=6143date=2012-12-21T00:00:00
-file,readme.txtfc103b4920195cebfd2c7dddb6f2c671size=1026date=2012-12-21T00:00:00
+file,readme.txt87f3497197a06a24f27ff9b3db85646esize=1079date=2012-12-21T00:00:00
 file,shy.pngc39507c4b81163b410f06d650ed887a2size=3637date=2012-12-21T00:00:00
 file,sidebar.pngad11cb2507ebaed126bd7dfd55ae8d36size=12728date=2012-12-21T00:00:00
 file,surface0000.png48e1efdd84d8b4ff2609bb9f7db3b48asize=351444date=2012-12-21T00:00:00
